@@ -1,1 +1,1 @@
-Alterações ao exemplo para tarefa 5
+Nova funcionalidade ao exemplo para a tarefa 5
